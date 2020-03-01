@@ -36,6 +36,9 @@ module.exports = {
    'import/prefer-default-export': 'off',
    'import/no-unresolved': 'off',
    'react/state-in-constructor': 'off',
-   'react/destructuring-assignment':'off'
+   'react/destructuring-assignment':'off',
+   'react/sort-comp': 'off',
+   'react/require-default-props': 'off',
+   'react/static-property-placement': 'off'
   },
 };
