@@ -39,6 +39,7 @@ module.exports = {
    'react/destructuring-assignment':'off',
    'react/sort-comp': 'off',
    'react/require-default-props': 'off',
-   'react/static-property-placement': 'off'
+   'react/static-property-placement': 'off',
+   'import/no-self-import': 'off'
   },
 };
